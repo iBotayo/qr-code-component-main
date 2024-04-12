@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-While working on this project, I learnt how to structure and position contents in the centerusing flexbox. With this, I was able to increase my knowledge on flexbox
+While working on this project, I learnt how to structure and position contents in the center using flexbox. With this, I was able to increase my knowledge on flexbox.
 
 See below the code:
 
@@ -54,7 +54,7 @@ body {
 ```
 ### Continued development
 
-I would continue to expand my knowledge in flexbox, CSS Grid, and also learn to add javaScript for responsiveness.
+I would continue to expand my knowledge in flexbox, CSS Grid, and also learn to add JavaScript for responsiveness.
 
 ## Author
 
